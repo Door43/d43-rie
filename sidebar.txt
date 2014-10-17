@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rie:home|Door43 (rie)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rie|d43-rie repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rie/archive/master.zip|d43-rie.zip]]
+
+**Recent Changes**
+{{changes>ns = rie}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rie|Ethnologue data]]
+
